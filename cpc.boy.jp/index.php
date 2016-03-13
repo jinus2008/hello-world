@@ -28,52 +28,54 @@
     <div role="main" class="ui-content">
     <div class="comment">本站提供工具类网站制作，为您的业务操作提供便利支持，提高工作效率。</div>
     <p>&nbsp;</p>
-<div class="center">
-网站一览：
-<table width="238" border="1" cellspacing="1" style="border-collapse:collapse">
-  <tr>
-    <td width="130"><a href="http://seidaijp.com/index.html" target="_blank">手机高价回收</a></td>
-    <td width="95">运营中</td>
-  </tr>
-  <tr>
-    <td><a href="./bofu" target="_blank">博富预约系统</a></td>
-    <td>建设中</td>
-  </tr>
-  <tr>
-    <td><a href="oldSite/xingwangtowel.PNG" target="_blank">毛巾贩卖</a></td>
-    <td>已中止使用</td>
-  </tr>
-</table></div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
-联系方式：
-<table width="238" border="1" cellspacing="1" style="border-collapse:collapse">
-  <tr>
-    <td width="50">电话</a></td>
-    <td>080-4889-8686</td>
-  </tr>
-  <tr>
-    <td width="50">Email</a></td>
-    <td><a href="mailto:jinus2008@gmail.com">jinus2008@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>微信</td>
-    <td>jinus2008</td>
-  </tr>
-  <tr>
-    <td>QQ</td>
-    <td>860192749</td>
-  </tr>
-  <tr>
-    <td>留言</td>
-    <td>点这里留言</td>
-  </tr>
-</table></div>
 
+    <div align="center">
+    网站一览：
+    <table width="238" border="1" cellspacing="1" style="border-collapse:collapse">
+      <tr>
+        <td width="130"><a href="http://seidaijp.com/index.html" target="_blank">手机回收网站</a></td>
+        <td width="95">运营中</td>
+      </tr>
+      <tr>
+        <td><a href="./bofu" target="_blank">某预约系统</a></td>
+        <td>测试站点</td>
+      </tr>
+      <tr>
+        <td><a href="oldSite/xingwangtowel.PNG" target="_blank">毛巾贩卖</a></td>
+        <td>已中止使用</td>
+      </tr>
+    </table>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div align="center">
+    联系方式：
+    <table width="238" border="1" cellspacing="1" style="border-collapse:collapse">
+      <tr>
+        <td width="50">电话</a></td>
+        <td>080-4889-8686</td>
+      </tr>
+      <tr>
+        <td width="50">Email</a></td>
+        <td><a href="mailto:jinus2008@gmail.com">jinus2008@gmail.com</a></td>
+      </tr>
+      <tr>
+        <td>微信</td>
+        <td>jinus2008</td>
+      </tr>
+      <tr>
+        <td>QQ</td>
+        <td>860192749</td>
+      </tr>
+      <tr>
+        <td>留言</td>
+        <td>点这里留言</td>
+      </tr>
+    </table>
+  </div>
 <br>
 <br>
     </div>
